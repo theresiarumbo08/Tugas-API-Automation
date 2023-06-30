@@ -5,7 +5,6 @@ Library for Automation Test:
 2. Chai
 3. Mocha
 
-
 #### Installation and Configuration
 1. Install node.js
 2. Check npm version
@@ -16,7 +15,10 @@ Library for Automation Test:
 3. `npm install supertest`
 4. `npm istall chai`
 
-#### To run the test suite / create a report run the command
+#### To running test cases, use the following command:
+`npx mocha "/filename"`
+
+### To create a report, run the command
 `npx mocha test\spec\getUser.spec.js --reporter mochawesome`
 
 #### Folder structure:

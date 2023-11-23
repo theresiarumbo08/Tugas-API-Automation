@@ -1,3 +1,7 @@
+## Make API Automation using supertest, mocha and chai from this URL
+
+https://docs.google.com/document/d/1W0XI71VrHLgnhRyziVUQqy62Acnh0FSxGHs9n4GIV_U/edit?usp=sharing  (KASIR AJA API CONTRACT/DOCUMENTATION)
+
 ## API Automation Testing Using Supertest, Mocha, and Chai
 
 Library for Automation Test:
